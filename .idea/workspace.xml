@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97239d18-e7b2-4def-9d8b-27e514a89fcf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gshw.py" beforeDir="false" afterPath="$PROJECT_DIR$/gshw.py" afterDir="false" />
-    </list>
+    <list default="true" id="97239d18-e7b2-4def-9d8b-27e514a89fcf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648398160723</updated>
-      <workItem from="1648398165686" duration="2510000" />
+      <workItem from="1648398165686" duration="3007000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.10
+#!/usr/bin/env python3
 # coding: utf-8
 import subprocess
 import click
@@ -11,9 +11,9 @@ if os.name == 'nt':
     pandoc_path = Path("C:/", "ProgramData", "chocolatey", "bin", "pandoc.exe")
     gs_path = Path("C:/", "Program Files", "gs", "gs9.55.0", "bin", "gswin64c.exe")
 else:
-    pandoc = "pandoc"
-    gs = 'gs'
-    home = os.environ['HOME']
+    pandoc_path = "/usr/bin/pandoc"
+    gs_path = '/usr/bin/gs'
+    home_path = os.environ['HOME']
 
 
 def pandoc(materia, unidad, actividad):
